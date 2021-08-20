@@ -1,0 +1,64 @@
+library ieee;
+use ieee.std_logic_1164.all;
+entity ass52 is
+port(mpr: in std_logic-vector( 7 downto 0);
+prev_toggle_position: in integer range -1 to 7;
+toggle_position: out integer range -1 to 7;
+sig_add,sig-sub: out std_logic);
+end entity;
+architecture controller_add_subtract_shift of ass52 is
+type s is array(7 downto -1) of std_logic;
+signal mpr1: s;
+begin
+mpr1(7 downto 0)<=mpr;
+mpr1(-1)<='0';
+process(mpr1,prev_toggle_position)
+begin
+if (mpr1(prev_toggle_position)='0') then
+if(mpr1(prev_toggle_location+1)='1'and prev_toggle_location+1<5) then
+toggle_location<=prev_toggle_location+1;
+sig_add<='0';
+sig_sub<='1';
+elsif(mpr1(prev_toggle_location+2)='1'and prev_toggle_location+2<5) then
+toggle_location<=prev_toggle_location+2;
+sig_add<='0';
+sig_sub<='1';
+elsif(mpr1(prev_toggle_location+3)='1'and prev_toggle_location+3<5) then
+toggle_location<=prev_toggle_location+3;
+sig_add<='0';
+sig_sub<='1';
+elsif(mpr1(prev_toggle_location+4)='1' and prev_toggle_location+4<5) then
+toggle_location<=prev_toggle_location+4;
+sig_add<='0';
+sig_sub<='1';
+else
+toggle_location<=prev_toggle_location;
+sig_add<='0';
+sig_sub<='0';
+end if;
+elsif(mpr(prev_toggle_location)='1') then
+if(mpr1(prev_toggle_location+1)='0'and prev_toggle_location+1<5) then
+toggle_location<=prev_toggle_location+1;
+sig_add<='1';
+sig_sub<='0';
+elsif(mpr1(prev_toggle_location+2)='0'and prev_toggle_location+2<5) then
+toggle_location<=prev_toggle_location+2;
+sig_add<='1';
+sig_sub<='0';
+elsif(mpr1(prev_toggle_location+3)='1'and prev_toggle_location+3<5) then
+toggle_location<=prev_toggle_location+3;
+sig_add<='1';
+sig_sub<='0';
+elsif(mpr1(prev_toggle_location+4)='1' and prev_toggle_location+4<5) then
+toggle_location<=prev_toggle_location+4;
+sig_add<='1';
+sig_sub<='0';
+else
+toggle_location<=prev_toggle_location;
+sig_add<='0';
+sig_sub<='0';
+end if;
+end if;
+end process;
+end architecture;
+

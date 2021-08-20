@@ -1,0 +1,81 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "toggle_location[0]",
+					"strict" : false
+				},
+				{
+					"name" : "toggle_location[1]",
+					"strict" : false
+				},
+				{
+					"name" : "toggle_location[2]",
+					"strict" : false
+				},
+				{
+					"name" : "toggle_location[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sig_add",
+					"strict" : false
+				},
+				{
+					"name" : "sig_sub",
+					"strict" : false
+				},
+				{
+					"name" : "prev_toggle_location[0]",
+					"strict" : false
+				},
+				{
+					"name" : "prev_toggle_location[3]",
+					"strict" : false
+				},
+				{
+					"name" : "prev_toggle_location[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mpr[7]",
+					"strict" : false
+				},
+				{
+					"name" : "prev_toggle_location[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mpr[6]",
+					"strict" : false
+				},
+				{
+					"name" : "mpr[5]",
+					"strict" : false
+				},
+				{
+					"name" : "mpr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mpr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mpr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "mpr[4]",
+					"strict" : false
+				},
+				{
+					"name" : "mpr[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
