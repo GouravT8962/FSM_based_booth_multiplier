@@ -1,0 +1,125 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "next_result[0]",
+					"strict" : false
+				},
+				{
+					"name" : "next_result[1]",
+					"strict" : false
+				},
+				{
+					"name" : "next_result[2]",
+					"strict" : false
+				},
+				{
+					"name" : "next_result[3]",
+					"strict" : false
+				},
+				{
+					"name" : "next_result[4]",
+					"strict" : false
+				},
+				{
+					"name" : "next_result[5]",
+					"strict" : false
+				},
+				{
+					"name" : "next_result[6]",
+					"strict" : false
+				},
+				{
+					"name" : "next_result[7]",
+					"strict" : false
+				},
+				{
+					"name" : "sig_sub",
+					"strict" : false
+				},
+				{
+					"name" : "result[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sig_add",
+					"strict" : false
+				},
+				{
+					"name" : "result[1]",
+					"strict" : false
+				},
+				{
+					"name" : "result[2]",
+					"strict" : false
+				},
+				{
+					"name" : "result[3]",
+					"strict" : false
+				},
+				{
+					"name" : "result[4]",
+					"strict" : false
+				},
+				{
+					"name" : "result[5]",
+					"strict" : false
+				},
+				{
+					"name" : "result[6]",
+					"strict" : false
+				},
+				{
+					"name" : "result[7]",
+					"strict" : false
+				},
+				{
+					"name" : "mpd[0]",
+					"strict" : false
+				},
+				{
+					"name" : "toggle_position[1]",
+					"strict" : false
+				},
+				{
+					"name" : "toggle_position[0]",
+					"strict" : false
+				},
+				{
+					"name" : "toggle_position[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mpd[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mpd[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mpd[3]",
+					"strict" : false
+				},
+				{
+					"name" : "mpd[4]",
+					"strict" : false
+				},
+				{
+					"name" : "mpd[5]",
+					"strict" : false
+				},
+				{
+					"name" : "mpd[6]",
+					"strict" : false
+				},
+				{
+					"name" : "mpd[7]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

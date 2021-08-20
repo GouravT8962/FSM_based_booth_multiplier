@@ -1,0 +1,21 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+entity ass51 is
+port(result,mpd: in std_logic_vector( 7 downto 0);
+toggle_position: in integer range 0 to 7;
+sig_add,sig_sub: in std_logic;
+next_result: out std_logicvector(7 downto 0));
+end entity;
+architecture alu_with_shift of ass51 is
+signal mpd1: std_logic_vector(7 downto 0);
+begin
+mpd1(7 downto toggle_position)<=mpd((7-toggle_position) downto 0);
+mpd1((toggle_position-1) downto 0)<=(others=>'0');
+m1:if(sig_add='1') generate
+next_result<=std_logic_vector(unsigned(result)+unsigned(mpd1);)
+end generate;
+m2:if(sig_sub='1') generate
+next_result<= std_logic_vector(unsigned(result)-unsigned(mpd1));
+end generate;
+end architecture;
