@@ -1,0 +1,6 @@
+
+State Machine - |ass5new|state
+Name state.stdone state.stcompute state.stidle 
+state.stidle 0 0 0 
+state.stcompute 0 1 1 
+state.stdone 1 0 1 
