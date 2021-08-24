@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Nov 11 20:14:54 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : ass5new
+Top-level Entity Name : ass5new
+Family : Cyclone IV E
+Total logic elements : 290
+    Total combinational functions : 274
+    Dedicated logic registers : 40
+Total registers : 40
+Total pins : 79
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
