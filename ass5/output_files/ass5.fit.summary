@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Nov 11 20:09:42 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : ass5
+Top-level Entity Name : ass5
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 156 / 22,320 ( < 1 % )
+    Total combinational functions : 150 / 22,320 ( < 1 % )
+    Dedicated logic registers : 32 / 22,320 ( < 1 % )
+Total registers : 32
+Total pins : 55 / 154 ( 36 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
