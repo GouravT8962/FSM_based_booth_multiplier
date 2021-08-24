@@ -1,0 +1,174 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/18.1/vhdl codes/ass5/simulation/modelsim
+Eass5
+Z1 w1605105369
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/intelFPGA_lite/18.1/vhdl codes/ass5/ass5.vhd
+Z5 FC:/intelFPGA_lite/18.1/vhdl codes/ass5/ass5.vhd
+l0
+L3
+VdBaX@i@>B;5nBMMcRVoQo3
+!s100 bMQG^<<nGbgHfnPgSQ56V3
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1605106900
+!i10b 1
+Z8 !s108 1605106900.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/intelFPGA_lite/18.1/vhdl codes/ass5/ass5.vhd|
+Z10 !s107 C:/intelFPGA_lite/18.1/vhdl codes/ass5/ass5.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Abooth
+R2
+R3
+DEx4 work 4 ass5 0 22 dBaX@i@>B;5nBMMcRVoQo3
+l34
+L13
+Vd2E5`?c`a[_aImGUmjPzc3
+!s100 :nVbgG:@aA]bEofcRYU<B2
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eass51
+Z13 w1605105512
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R0
+Z15 8C:/intelFPGA_lite/18.1/vhdl codes/ass51/ass51.vhd
+Z16 FC:/intelFPGA_lite/18.1/vhdl codes/ass51/ass51.vhd
+l0
+L4
+VKE6fm;g;RSCo27:5@eZ^Y0
+!s100 XBN]WOT8XWZYi@TlDBf>R2
+R6
+31
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/intelFPGA_lite/18.1/vhdl codes/ass51/ass51.vhd|
+Z18 !s107 C:/intelFPGA_lite/18.1/vhdl codes/ass51/ass51.vhd|
+!i113 1
+R11
+R12
+Aalu_with_shift
+R14
+R2
+R3
+DEx4 work 5 ass51 0 22 KE6fm;g;RSCo27:5@eZ^Y0
+l14
+L12
+V:GmA2E<>A2RFSd4o0BeMl0
+!s100 W^ElnLz25HbIg02iW`H8V3
+R6
+31
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Eass52
+Z19 w1605105119
+R2
+R3
+R0
+Z20 8C:/intelFPGA_lite/18.1/vhdl codes/ass52/ass52.vhd
+Z21 FC:/intelFPGA_lite/18.1/vhdl codes/ass52/ass52.vhd
+l0
+L3
+ViHJLK2>WGYm7`zTCoGHXo0
+!s100 fi0[VihlJ_YjFC7JdC5jB3
+R6
+31
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-93|-work|work|C:/intelFPGA_lite/18.1/vhdl codes/ass52/ass52.vhd|
+Z23 !s107 C:/intelFPGA_lite/18.1/vhdl codes/ass52/ass52.vhd|
+!i113 1
+R11
+R12
+Acontroller_add_subtract_shift
+R2
+R3
+DEx4 work 5 ass52 0 22 iHJLK2>WGYm7`zTCoGHXo0
+l11
+L9
+VnLI@iOX]Ezgg2g0B=Zf<M2
+!s100 ]XmWTF]mBD_]P]Y:mRcP71
+R6
+31
+R7
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12
+Eass5_tb
+Z24 w1605105117
+Z25 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z26 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z27 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R2
+R3
+R0
+Z28 8C:/intelFPGA_lite/18.1/vhdl codes/ass5/simulation/modelsim/ass5_tb.vhd
+Z29 FC:/intelFPGA_lite/18.1/vhdl codes/ass5/simulation/modelsim/ass5_tb.vhd
+l0
+L7
+VJ0BGfInWTZmfe9k7fj9E91
+!s100 TIBLg93nkPBH@=JQg8L]f1
+R6
+31
+R7
+!i10b 1
+R8
+Z30 !s90 -reportprogress|300|-93|-work|work|C:/intelFPGA_lite/18.1/vhdl codes/ass5/simulation/modelsim/ass5_tb.vhd|
+Z31 !s107 C:/intelFPGA_lite/18.1/vhdl codes/ass5/simulation/modelsim/ass5_tb.vhd|
+!i113 1
+R11
+R12
+Aass5_tb_arch
+R25
+R26
+R27
+R2
+R3
+DEx4 work 7 ass5_tb 0 22 J0BGfInWTZmfe9k7fj9E91
+l32
+L10
+V_H9iOJ`f:91ROH<E63nIC0
+!s100 1d6>8FjfEih5TLSoI^DAN2
+R6
+31
+R7
+!i10b 1
+R8
+R30
+R31
+!i113 1
+R11
+R12

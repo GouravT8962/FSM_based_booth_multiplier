@@ -1,0 +1,155 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/18.1/vhdl codes/ass5/simulation/modelsim
+Eass5
+Z1 w1605101191
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx10 cycloneive 20 cycloneive_atom_pack 0 22 g8;l:a_bzlE?3R3d7zk3Z0
+Z4 DPx10 cycloneive 21 cycloneive_components 0 22 Yj^f[Ven<H;0LiK:6PWEg0
+Z5 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z6 DPx6 altera 11 dffeas_pack 0 22 :S1C`o89Vbe5bV6`:6CaB3
+Z7 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z8 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z9 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z10 DPx6 altera 28 altera_primitives_components 0 22 z?[99Tn<@QGNik3V1c6ah1
+R0
+Z11 8ass5_6_1200mv_85c_slow.vho
+Z12 Fass5_6_1200mv_85c_slow.vho
+l0
+L82
+V27joLB<DCWL3R[TQ4XUH=3
+!s100 XDjCdg7NgU91<c`N=AnY52
+Z13 OV;C;10.5b;63
+31
+Z14 !s110 1605104366
+!i10b 1
+Z15 !s108 1605104366.000000
+Z16 !s90 -reportprogress|300|-93|-work|work|ass5_6_1200mv_85c_slow.vho|
+Z17 !s107 ass5_6_1200mv_85c_slow.vho|
+!i113 1
+Z18 o-93 -work work
+Z19 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 4 ass5 0 22 27joLB<DCWL3R[TQ4XUH=3
+l898
+L212
+VSg37@Z9moTeaWb2kYW4?l3
+!s100 HLkaz4kH6HM9^N>3H24ia2
+R13
+31
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R18
+R19
+Eass5_tb
+Z20 w1605102156
+R2
+Z21 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z22 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R8
+R9
+R0
+Z23 8C:/intelFPGA_lite/18.1/vhdl codes/ass5/simulation/modelsim/ass5_tb.vhd
+Z24 FC:/intelFPGA_lite/18.1/vhdl codes/ass5/simulation/modelsim/ass5_tb.vhd
+l0
+L7
+VJ0BGfInWTZmfe9k7fj9E91
+!s100 TIBLg93nkPBH@=JQg8L]f1
+R13
+31
+R14
+!i10b 1
+R15
+Z25 !s90 -reportprogress|300|-93|-work|work|C:/intelFPGA_lite/18.1/vhdl codes/ass5/simulation/modelsim/ass5_tb.vhd|
+Z26 !s107 C:/intelFPGA_lite/18.1/vhdl codes/ass5/simulation/modelsim/ass5_tb.vhd|
+!i113 1
+R18
+R19
+Aass5_tb_arch
+R2
+R21
+R22
+R8
+R9
+DEx4 work 7 ass5_tb 0 22 J0BGfInWTZmfe9k7fj9E91
+l32
+L10
+VVljWD]M9<TZFClEk_D2<a1
+!s100 K;Z0@Mi[T3jfc<ojbf]cj3
+R13
+31
+R14
+!i10b 1
+R15
+R25
+R26
+!i113 1
+R18
+R19
+Ehard_block
+R1
+R5
+R3
+R7
+R8
+R9
+R4
+R0
+R11
+R12
+l0
+L34
+VF25TiLjh`DQcC8Z=zbJ?Y3
+!s100 A`ID_i56<Ua56=ZD=[EG=2
+R13
+31
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R18
+R19
+Astructure
+R5
+R3
+R7
+R8
+R9
+R4
+DEx4 work 10 hard_block 0 22 F25TiLjh`DQcC8Z=zbJ?Y3
+l64
+L50
+VZ2P8e]:^NT<7Y7=;nM1Vi3
+!s100 2S?JL;LJ@<3:BHXTNcXS]3
+R13
+31
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R18
+R19
